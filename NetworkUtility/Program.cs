@@ -3,4 +3,4 @@ using NetworkUtility;
 
 Console.WriteLine("Hello, World!");
 
-Console.WriteLine("Cahlo sis");
+Console.WriteLine("Hello Chalo sis.");
